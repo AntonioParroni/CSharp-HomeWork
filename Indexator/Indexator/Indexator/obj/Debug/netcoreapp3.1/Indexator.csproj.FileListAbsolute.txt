@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator.deps.json
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator.runtimeconfig.json
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator.runtimeconfig.dev.json
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator.dll
+/home/ray/RiderProjects/Indexator/Indexator/bin/Debug/netcoreapp3.1/Indexator.pdb
+/home/ray/RiderProjects/Indexator/Indexator/obj/Debug/netcoreapp3.1/Indexator.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Indexator/Indexator/obj/Debug/netcoreapp3.1/Indexator.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Indexator/Indexator/obj/Debug/netcoreapp3.1/Indexator.AssemblyInfo.cs
+/home/ray/RiderProjects/Indexator/Indexator/obj/Debug/netcoreapp3.1/Indexator.dll
+/home/ray/RiderProjects/Indexator/Indexator/obj/Debug/netcoreapp3.1/Indexator.pdb

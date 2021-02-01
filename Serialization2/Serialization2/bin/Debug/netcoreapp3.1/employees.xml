@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrderList>
+  <OrderID xmlns="1">
+    <Price>44.99</Price>
+    <Quantity>5</Quantity>
+    <Date>10.01.2020</Date>
+    <ProductName>AMD</ProductName>
+    <ProductManufacturer>Malaysia</ProductManufacturer>
+    <ProductType>Processor</ProductType>
+    <ProductID>1</ProductID>
+  </OrderID>
+  <OrderID xmlns="2">
+    <Price>999.99</Price>
+    <Quantity>100</Quantity>
+    <Date>11.01.2020</Date>
+    <ProductName>Elbrus</ProductName>
+    <ProductManufacturer>Russia</ProductManufacturer>
+    <ProductType>Processor</ProductType>
+    <ProductID>2</ProductID>
+  </OrderID>
+</OrderList>

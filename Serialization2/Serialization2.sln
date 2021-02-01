@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization2", "Serialization2\Serialization2.csproj", "{4AC53F75-B96D-4E59-A544-9D74344DB5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC53F75-B96D-4E59-A544-9D74344DB5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC53F75-B96D-4E59-A544-9D74344DB5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC53F75-B96D-4E59-A544-9D74344DB5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC53F75-B96D-4E59-A544-9D74344DB5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

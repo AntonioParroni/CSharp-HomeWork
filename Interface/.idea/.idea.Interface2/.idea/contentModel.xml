@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Interface2.952967586.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Interface2" t="IncludeRecursive">
+        <e p="Chemicals.cs" t="Include" />
+        <e p="Exceptions.cs" t="Include" />
+        <e p="Goods.cs" t="Include" />
+        <e p="IExciseProduct.cs" t="Include" />
+        <e p="IFlammableProduct.cs" t="Include" />
+        <e p="IFragileProduct.cs" t="Include" />
+        <e p="IGoodsActions.cs" t="Include" />
+        <e p="IPerishableFood.cs" t="Include" />
+        <e p="Interface2.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Interface2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Interface2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

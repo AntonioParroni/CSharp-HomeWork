@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload.deps.json
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload.runtimeconfig.json
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload.runtimeconfig.dev.json
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload.dll
+/home/ray/RiderProjects/Overload/Overload/bin/Debug/netcoreapp3.1/Overload.pdb
+/home/ray/RiderProjects/Overload/Overload/obj/Debug/netcoreapp3.1/Overload.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Overload/Overload/obj/Debug/netcoreapp3.1/Overload.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Overload/Overload/obj/Debug/netcoreapp3.1/Overload.AssemblyInfo.cs
+/home/ray/RiderProjects/Overload/Overload/obj/Debug/netcoreapp3.1/Overload.dll
+/home/ray/RiderProjects/Overload/Overload/obj/Debug/netcoreapp3.1/Overload.pdb

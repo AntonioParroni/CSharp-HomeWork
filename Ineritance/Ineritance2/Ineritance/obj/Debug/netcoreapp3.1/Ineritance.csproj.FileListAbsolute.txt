@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance.deps.json
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance.runtimeconfig.json
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance.runtimeconfig.dev.json
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance.dll
+/home/ray/RiderProjects/Ineritance/Ineritance/bin/Debug/netcoreapp3.1/Ineritance.pdb
+/home/ray/RiderProjects/Ineritance/Ineritance/obj/Debug/netcoreapp3.1/Ineritance.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Ineritance/Ineritance/obj/Debug/netcoreapp3.1/Ineritance.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Ineritance/Ineritance/obj/Debug/netcoreapp3.1/Ineritance.AssemblyInfo.cs
+/home/ray/RiderProjects/Ineritance/Ineritance/obj/Debug/netcoreapp3.1/Ineritance.dll
+/home/ray/RiderProjects/Ineritance/Ineritance/obj/Debug/netcoreapp3.1/Ineritance.pdb

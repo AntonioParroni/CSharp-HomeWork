@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.deps.json
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.json
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.runtimeconfig.dev.json
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.dll
+/home/ray/RiderProjects/Delegate/Delegate/bin/Debug/netcoreapp3.1/Delegate.pdb
+/home/ray/RiderProjects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.AssemblyInfo.cs
+/home/ray/RiderProjects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.dll
+/home/ray/RiderProjects/Delegate/Delegate/obj/Debug/netcoreapp3.1/Delegate.pdb

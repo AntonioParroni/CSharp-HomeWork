@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList.deps.json
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList.runtimeconfig.json
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList.runtimeconfig.dev.json
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList.dll
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/bin/Debug/netcoreapp3.1/DoubleLinekedList.pdb
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/obj/Debug/netcoreapp3.1/DoubleLinekedList.csprojAssemblyReference.cache
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/obj/Debug/netcoreapp3.1/DoubleLinekedList.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/obj/Debug/netcoreapp3.1/DoubleLinekedList.AssemblyInfo.cs
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/obj/Debug/netcoreapp3.1/DoubleLinekedList.dll
+/home/ray/RiderProjects/DoubleLinekedList/DoubleLinekedList/obj/Debug/netcoreapp3.1/DoubleLinekedList.pdb

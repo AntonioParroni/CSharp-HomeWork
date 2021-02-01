@@ -1,0 +1,13 @@
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String.deps.json
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.json
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String.runtimeconfig.dev.json
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String.dll
+/home/ray/RiderProjects/String/String/bin/Debug/netcoreapp3.1/String.pdb
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.csprojAssemblyReference.cache
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.AssemblyInfo.cs
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.csproj.CoreCompileInputs.cache
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.dll
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.pdb
+/home/ray/RiderProjects/String/String/obj/Debug/netcoreapp3.1/String.genruntimeconfig.cache

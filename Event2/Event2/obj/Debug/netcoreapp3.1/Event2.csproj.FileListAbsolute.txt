@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2.deps.json
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2.runtimeconfig.json
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2.runtimeconfig.dev.json
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2.dll
+/home/ray/RiderProjects/Event2/Event2/bin/Debug/netcoreapp3.1/Event2.pdb
+/home/ray/RiderProjects/Event2/Event2/obj/Debug/netcoreapp3.1/Event2.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Event2/Event2/obj/Debug/netcoreapp3.1/Event2.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Event2/Event2/obj/Debug/netcoreapp3.1/Event2.AssemblyInfo.cs
+/home/ray/RiderProjects/Event2/Event2/obj/Debug/netcoreapp3.1/Event2.dll
+/home/ray/RiderProjects/Event2/Event2/obj/Debug/netcoreapp3.1/Event2.pdb

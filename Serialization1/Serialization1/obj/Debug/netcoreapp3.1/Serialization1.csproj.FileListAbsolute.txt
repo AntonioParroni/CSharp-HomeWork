@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1.deps.json
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1.runtimeconfig.json
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1.runtimeconfig.dev.json
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1.dll
+/home/ray/RiderProjects/Serialization1/Serialization1/bin/Debug/netcoreapp3.1/Serialization1.pdb
+/home/ray/RiderProjects/Serialization1/Serialization1/obj/Debug/netcoreapp3.1/Serialization1.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Serialization1/Serialization1/obj/Debug/netcoreapp3.1/Serialization1.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Serialization1/Serialization1/obj/Debug/netcoreapp3.1/Serialization1.AssemblyInfo.cs
+/home/ray/RiderProjects/Serialization1/Serialization1/obj/Debug/netcoreapp3.1/Serialization1.dll
+/home/ray/RiderProjects/Serialization1/Serialization1/obj/Debug/netcoreapp3.1/Serialization1.pdb

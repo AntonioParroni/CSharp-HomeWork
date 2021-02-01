@@ -1,0 +1,11 @@
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.deps.json
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.json
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.runtimeconfig.dev.json
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.dll
+/home/ray/RiderProjects/Exceptions/Exceptions/bin/Debug/netcoreapp3.1/Exceptions.pdb
+/home/ray/RiderProjects/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.csprojAssemblyReference.cache
+/home/ray/RiderProjects/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfoInputs.cache
+/home/ray/RiderProjects/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.AssemblyInfo.cs
+/home/ray/RiderProjects/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.dll
+/home/ray/RiderProjects/Exceptions/Exceptions/obj/Debug/netcoreapp3.1/Exceptions.pdb

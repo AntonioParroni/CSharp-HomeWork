@@ -1,0 +1,14 @@
+<OrderList>
+  <OrderID id="1">
+    <Price>44.99</Price>
+    <Name>AMD</Name>
+    <Type>Processor</Type>
+    <Manufacurer>Malaysia</Manufacurer>
+  </OrderID>
+  <OrderID id="2">
+    <Price>999.99</Price>
+    <Name>Elbrus</Name>
+    <Type>Processor</Type>
+    <Manufacurer>Russia</Manufacurer>
+  </OrderID>
+</OrderList>
